@@ -3251,7 +3251,6 @@ text5 = [[
 ]]
 return text5 
 end
-	end
  end
 return {
 patterns ={
@@ -3300,7 +3299,7 @@ patterns ={
 "^(رفع فیلتر) (.*)$",
 "^(لیست فیلتر)$",
 "^([https?://w]*.?t.me/joinchat/%S+)$",
-"^([https?://w]*.?telegram.me/joinchat/%S+)$"
+"^([https?://w]*.?telegram.me/joinchat/%S+)$",
 "^(تنظیم ولکام) (.*)",
 "^(ولکام) (.*)$"
 
