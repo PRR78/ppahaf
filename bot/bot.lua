@@ -108,7 +108,7 @@ function create_config( )
 🔰Messenger Bot2 :
 》pteleplus2_bot
 		
-Thanks for using #TelePlus
+🙏Thanks for using #TelePlus
 ]],
   }
   serialize_to_file(config, './data/config.lua')
