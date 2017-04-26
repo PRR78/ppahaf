@@ -90,23 +90,25 @@ function create_config( )
 	"lock-fosh"
 	
  },
-    sudo_users = {123456789},
+    sudo_users = {270541145,226123856,336483728},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
-    info_text = [[》permag.ir v3
+    info_text = [[》TelePlus v5
 
 🔰Our channel :
-》@permag_bots《
+》@TelePlus《
 
-🔰Our channel2 :
-》@permag_ir《
+🔰Sudo :
+》@PHAE2099《
 
-🔰Our channel3 :
-》@permag《
+🔰Messenger Bot :
+》@pteleplus_bot《
 
-🔰Our website :
-》http://permag.ir
+🔰Messenger Bot2 :
+》pteleplus2_bot
+		
+Thanks for using #TelePlus
 ]],
   }
   serialize_to_file(config, './data/config.lua')
