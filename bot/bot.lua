@@ -107,6 +107,10 @@ function create_config( )
 
 🔰Messenger Bot2 :
 》pteleplus2_bot
+
+🙏Special Thanks to:
+》#Permag Source
+》#Mr.Farzad
 		
 🙏Thanks for using #TelePlus
 ]],
