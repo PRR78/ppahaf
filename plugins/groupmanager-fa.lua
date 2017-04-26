@@ -3251,6 +3251,7 @@ text5 = [[
 ]]
 return text5 
 end
+	end
  end
 return {
 patterns ={
