@@ -2923,10 +2923,10 @@ _If This Actions Lock, Bot Check Actions And Delete Them_
 🔓*!unlock* `[link | tag | arabic | edit | fosh | webpage | bots | spam | flood | markdown | mention]`
 _If This Actions Unlock, Bot Not Delete Them_
 
-🔕*!mute* `[gifs | photo | tgservice | document | sticker | video | text | forward | location | audio | voice | contact | all]`
+🔕*!mute* `[gif | photo | tgservice | document | sticker | video | text | forward | inline | location | audio | voice | contact | all]`
 _If This Actions Lock, Bot Check Actions And Delete Them_
 
-🔔*!unmute* `[gif | photo | tgservice | document | sticker | video | tgservice | text | forward | inline | location | audio | voice | contact | all]`
+🔔*!unmute* `[gif | photo | tgservice | document | sticker | video | text | forward | inline | location | audio | voice | contact | all]`
 _If This Actions Unlock, Bot Not Delete Them_
 
 🔹*!set*`[rules | name | photo | link | about]`
@@ -2980,21 +2980,11 @@ _Show Filter List_
 ♻️*!delall* `[reply]`
 _Delete Message_
 〰〰〰〰〰
-⏱*!setexpire*  30
-⏱*!expire*
-_set expire for group_
-〰〰〰〰〰
 🎗*!setwelcome* متن پیام
 ➕*!welcome enable*
 ➖*!welcome disable*
 _set welcome for group_
 〰〰〰〰〰
-📣*!broadcast* text
-_Send Msg To All Groups_
-〰〰〰〰〰
-⚙*!autoleave enable*
-⚙*!autoleave disable*
-_set Auto leave_
 
 _You Can Use_ *[!/#]* _To Run The Commands_
 ]]
@@ -3245,21 +3235,11 @@ text4 = [[
 ♻️ *!delall* `[reply]`
 💬 حذف پیام های گروه حداکثر 100
 〰〰〰〰〰
-⏱ *!setexpire*  30
-⏱ *!expire*
-💬 تنظیم انقضای گروه
-〰〰〰〰〰
 🎗*!setwelcome* متن پیام
 ➕*!welcome enable*
 ➖*!welcome disable*
 💬 ست کردن و فعال و غیرفعال کردن خوش آمد گویی
 〰〰〰〰〰
-📣 *!broadcast* متن پیام
-💬 ارسال یک پیام به همه گروهایی که ربات مدیر است
-〰〰〰〰〰
-⚙*!autoleave enable*
-⚙*!autoleave disable*
-💬 تنظیم خارج شدن ربات
 ...
 ]]
 return text4
