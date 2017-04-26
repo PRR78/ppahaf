@@ -3432,9 +3432,7 @@ patterns ={
 "^(رفع فیلتر) (.*)$",
 "^(لیست فیلتر)$",
 "^([https?://w]*.?t.me/joinchat/%S+)$",
-"^([https?://w]*.?telegram.me/joinchat/%S+)$",
-"^(تنظیم ولکام) (.*)",
-"^(ولکام) (.*)$"
+"^([https?://w]*.?telegram.me/joinchat/%S+)$"
 
 
 },
