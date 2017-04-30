@@ -557,7 +557,8 @@ return '_تیک دوم >_ *خاموش*'
 end
 
 if matches[1] == 'bc' and is_admin(msg) then		
-tdcli.sendMessage(matches[2], 0, 0, matches[3], 0)	end	
+tdcli.sendMessage(matches[2], 0, 0, matches[3], 0)	
+end	
 
 if matches[1] == 'broadcast' and is_sudo(msg) then		
 local data = load_data(_config.moderation.data)		
